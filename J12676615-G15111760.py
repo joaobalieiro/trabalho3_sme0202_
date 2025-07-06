@@ -2,6 +2,9 @@ import numpy as np
 import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
 
+# Gabriel Coutinho Chaves - Nº USP 15111760
+# João Pedro Pereira Balieiro - Nº USP 12676615
+
 # ======================================
 # PARTE 1: metodo ftcs explicito para adveccao e difusao
 # ======================================
